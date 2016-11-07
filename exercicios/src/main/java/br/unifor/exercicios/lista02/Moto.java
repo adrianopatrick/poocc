@@ -48,5 +48,4 @@ public class Moto {
 		return "Moto [marca=" + marca + ", modelo=" + modelo + ", cor=" + cor + ", marcha=" + marcha + ", ligada="
 				+ ligada + "]";
 	}
-
 }
