@@ -1,0 +1,7 @@
+exercício 09: item B) Apenas I e II (correção) onde Lê: Apenas I e III, leia-se Apenas I e II
+exercício 10: item b)
+exercício 11: item e)
+exercício 12: item c)
+exercício 13: item a)
+exercício 14: Exercício 14: Classes e objetos são dois conceitos-chave da programação orientada a objetos. Com relação a estes conceitos, é incorreto afirmar que:
+			  item d)

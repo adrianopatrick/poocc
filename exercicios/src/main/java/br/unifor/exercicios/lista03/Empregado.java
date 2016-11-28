@@ -1,5 +1,6 @@
 package br.unifor.exercicios.lista03;
 
+/**Questoes: 03*/
 public class Empregado extends Pessoa {
 	
 	private Integer codigoSetor;

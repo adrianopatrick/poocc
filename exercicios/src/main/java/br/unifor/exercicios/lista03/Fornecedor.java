@@ -1,5 +1,6 @@
 package br.unifor.exercicios.lista03;
 
+/**Questoes: 02*/
 public class Fornecedor extends Pessoa {
 	
 	private Double valorCredito;

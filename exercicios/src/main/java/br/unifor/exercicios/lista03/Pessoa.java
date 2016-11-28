@@ -1,5 +1,6 @@
 package br.unifor.exercicios.lista03;
 
+/**Questoes: 01, 02, 03*/
 public class Pessoa {
 
 	private String nome;

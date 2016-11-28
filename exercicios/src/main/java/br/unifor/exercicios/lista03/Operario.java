@@ -1,5 +1,5 @@
 package br.unifor.exercicios.lista03;
-
+/**Questoes: 05*/
 public class Operario extends Empregado {
 	
 	private Double valorProducao;
